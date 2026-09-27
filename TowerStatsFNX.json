@@ -1641,5 +1641,361 @@
         "BleedTime": 1
       }
     ]
+  },
+  "Tarnished Spring Bonnie": {
+    "Type": "Cone AOE + Passive",
+    "Image": "rbxassetid://18777411515",
+    "Rarity": "Secret",
+    "PlacePrice": 600,
+    "Offset": 0,
+    "Max": 3,
+    "Passive": {
+      "Name": "Tarnish",
+      "Description": "Enemies hit by Tarnished Spring Bonnie's attack take 10% more damage for 2 seconds."
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 300,
+        "Cooldown": 0.5,
+        "Wither": 1.1,
+        "ShinyWither": 1.1,
+        "WitherTime": 2
+      },
+      {
+        "Price": 700,
+        "Range": 24,
+        "Damage": 325,
+        "Cooldown": 0.5,
+        "Wither": 1.1,
+        "ShinyWither": 1.1,
+        "WitherTime": 2
+      },
+      {
+        "Price": 900,
+        "Range": 25,
+        "Damage": 350,
+        "Cooldown": 0.4,
+        "Wither": 1.1,
+        "ShinyWither": 1.1,
+        "WitherTime": 2
+      },
+      {
+        "Price": 1000,
+        "Range": 26,
+        "Damage": 375,
+        "Cooldown": 0.4,
+        "Wither": 1.1,
+        "ShinyWither": 1.1,
+        "WitherTime": 2
+      },
+      {
+        "Price": 1200,
+        "Range": 27,
+        "Damage": 400,
+        "Cooldown": 0.3,
+        "Wither": 1.1,
+        "ShinyWither": 1.1,
+        "WitherTime": 2
+      }
+    ]
+  },
+  "Scott": {
+    "Type": "Splash",
+    "Image": "rbxassetid://18864498819",
+    "Rarity": "Secret",
+    "PlacePrice": 5000,
+    "Offset": 1.25,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 1000,
+        "Cooldown": 2.5
+      },
+      {
+        "Price": 10000,
+        "Range": 28,
+        "Damage": 1600,
+        "Cooldown": 2.4
+      },
+      {
+        "Price": 15000,
+        "Range": 31,
+        "Damage": 2200,
+        "Cooldown": 2.3
+      },
+      {
+        "Price": 20000,
+        "Range": 34,
+        "Damage": 2800,
+        "Cooldown": 2.2
+      },
+      {
+        "Price": 25000,
+        "Range": 37,
+        "Damage": 3400,
+        "Cooldown": 2.1
+      },
+      {
+        "Price": 30000,
+        "Range": 45,
+        "Damage": 4000,
+        "Cooldown": 2
+      }
+    ]
+  },
+  "Circuit Breaker Freddy": {
+    "Type": "Cone AOE",
+    "Image": "rbxassetid://18886487842",
+    "Rarity": "Nightmare",
+    "PlacePrice": 6000,
+    "Offset": 0,
+    "Max": 3,
+    "Passive": {
+      "Name": "Virus",
+      "Description": "Enemies hit by Circuit Breaker's attack take 7.5% more damage for 3 seconds (15% if shiny)"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 2500,
+        "Cooldown": 1,
+        "Wither": 1.075,
+        "ShinyWither": 1.15,
+        "WitherTime": 1
+      },
+      {
+        "Price": 8000,
+        "Range": 28,
+        "Damage": 3200,
+        "Cooldown": 1,
+        "Wither": 1.075,
+        "ShinyWither": 1.15,
+        "WitherTime": 1
+      },
+      {
+        "Price": 10000,
+        "Range": 31,
+        "Damage": 4000,
+        "Cooldown": 1,
+        "Wither": 1.075,
+        "ShinyWither": 1.15,
+        "WitherTime": 1
+      },
+      {
+        "Price": 12000,
+        "Range": 35,
+        "Damage": 5000,
+        "Cooldown": 1,
+        "Wither": 1.075,
+        "ShinyWither": 1.15,
+        "WitherTime": 1
+      }
+    ]
+  },
+  "Glitched Puppeteer": {
+    "Type": "Splash",
+    "Image": "rbxassetid://18887217738",
+    "Rarity": "Nightmare",
+    "PlacePrice": 20000,
+    "Offset": 0.7,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 30,
+        "Damage": 4000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 25000,
+        "Range": 33,
+        "Damage": 4750,
+        "Cooldown": 3.85
+      },
+      {
+        "Price": 30000,
+        "Range": 36,
+        "Damage": 5500,
+        "Cooldown": 3.7
+      },
+      {
+        "Price": 40000,
+        "Range": 40,
+        "Damage": 6500,
+        "Cooldown": 3.5
+      }
+    ]
+  },
+  "Glitched CupCake": {
+    "Type": "AOE",
+    "Image": "rbxassetid://18888327109",
+    "Rarity": "Epic",
+    "PlacePrice": 1500,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 40,
+        "Cooldown": 0.7
+      },
+      {
+        "Price": 2000,
+        "Range": 17,
+        "Damage": 50,
+        "Cooldown": 0.6
+      },
+      {
+        "Price": 2500,
+        "Range": 18,
+        "Damage": 60,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 3000,
+        "Range": 20,
+        "Damage": 80,
+        "Cooldown": 0.35
+      }
+    ]
+  },
+  "The Crying Child": {
+    "Type": "Slow",
+    "Image": "rbxassetid://18937271323",
+    "Rarity": "Secret",
+    "PlacePrice": 800,
+    "Offset": 0,
+    "Max": 2,
+    "Passive": {
+      "Name": "Slow",
+      "Description": "Slows enemies by 50-70%"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 0,
+        "Cooldown": 2.7,
+        "Slow": 0.7
+      },
+      {
+        "Price": 1000,
+        "Range": 25,
+        "Damage": 0,
+        "Cooldown": 2.7,
+        "Slow": 0.5
+      },
+      {
+        "Price": 1400,
+        "Range": 27,
+        "Damage": 0,
+        "Cooldown": 2.7,
+        "Slow": 0.45
+      },
+      {
+        "Price": 1800,
+        "Range": 30,
+        "Damage": 0,
+        "Cooldown": 2.7,
+        "Slow": 0.4
+      },
+      {
+        "Price": 2000,
+        "Range": 32,
+        "Damage": 0,
+        "Cooldown": 2.7,
+        "Slow": 0.3
+      }
+    ]
+  },
+  "SuperNova Freddy": {
+    "Type": "AOE",
+    "Image": "rbxassetid://76770097725500",
+    "Rarity": "Nightmare",
+    "PlacePrice": 1800,
+    "Offset": 0,
+    "Max": 2,
+    "Passive": {
+      "Name": "Slow",
+      "Description": "Slows enemies by 50-70%"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 750,
+        "Cooldown": 0.5,
+        "Slow": 0.4
+      },
+      {
+        "Price": 2000,
+        "Range": 25,
+        "Damage": 1000,
+        "Cooldown": 0.5,
+        "Slow": 0.5
+      },
+      {
+        "Price": 3400,
+        "Range": 27,
+        "Damage": 2000,
+        "Cooldown": 0.5,
+        "Slow": 0.55
+      },
+      {
+        "Price": 4800,
+        "Range": 30,
+        "Damage": 2500,
+        "Cooldown": 0.5,
+        "Slow": 0.6
+      },
+      {
+        "Price": 5500,
+        "Range": 32,
+        "Damage": 2500,
+        "Cooldown": 0.4,
+        "Slow": 0.7
+      }
+    ]
   }
 }
