@@ -792,6 +792,44 @@
             }
         ]
     },
+	 "SuperNova Freddy": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://76770097725500",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 20000,
+                "Range": 35,
+                "Damage": 750,
+                "Cooldown": 0.25,
+            },
+            {
+                "Price": 25000,
+                "Range": 45,
+                "Damage": 1000,
+                "Cooldown": 0.25,
+            },
+            {
+                "Price": 30000,
+                "Range": 55,
+                "Damage": 1250,
+                "Cooldown": 0.25,
+            },
+            {
+                "Price": 35000,
+                "Range": 65,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+            }
+        ]
+    },
     "Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://17690383931",
