@@ -984,10 +984,7 @@
         "Wither": 1.2,
         "ShinyWither": 1.2,
         "WitherTime": 1
-      }
-    ]
-  }
-}
+      },
     "Baker Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18161347460",
