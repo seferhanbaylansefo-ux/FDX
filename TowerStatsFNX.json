@@ -2698,238 +2698,249 @@
             }
         ]
     },
-    "Circuit Breaker Freddy": {
-        "Type": "Cone AOE",
-        "Image": "rbxassetid://18886487842",
-        "Rarity": "Nightmare",
-        "PlacePrice": 6000,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Virus", "Description": "Enemies hit by Circuit Breaker's attack take 7.5% more damage for 3 seconds (15% if shiny)"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 2500,
-                "Cooldown": 1,
-                "Wither": 1.075,
-                "ShinyWither": 1.15,
-                "WitherTime": 1
-            },
-            {
-                "Price": 8000,
-                "Range": 28,
-                "Damage": 3200,
-                "Cooldown": 1,
-                "Wither": 1.075,
-                "ShinyWither": 1.15,
-                "WitherTime": 1
-            },
-            {
-                "Price": 10000,
-                "Range": 31,
-                "Damage": 4000,
-                "Cooldown": 1,
-                "Wither": 1.075,
-                "ShinyWither": 1.15,
-                "WitherTime": 1
-            },
-            {
-                "Price": 12000,
-                "Range": 35,
-                "Damage": 5000,
-                "Cooldown": 1,
-                "Wither": 1.075,
-                "ShinyWither": 1.15,
-                "WitherTime": 1
-            }
-        ]
+{
+  "Circuit Breaker Freddy": {
+    "Type": "Cone AOE",
+    "Image": "rbxassetid://18886487842",
+    "Rarity": "Nightmare",
+    "PlacePrice": 6000,
+    "Offset": 0,
+    "Max": 3,
+    "Passive": {
+      "Name": "Virus",
+      "Description": "Enemies hit by Circuit Breaker's attack take 7.5% more damage for 3 seconds (15% if shiny)"
     },
-    "Glitched Puppeteer": {
-        "Type": "Splash",
-        "Image": "rbxassetid://18887217738",
-        "Rarity": "Nightmare",
-        "PlacePrice": 20000,
-        "Offset": 0.7,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 4000,
-                "Cooldown": 4
-            },
-            {
-                "Price": 25000,
-                "Range": 33,
-                "Damage": 4750,
-                "Cooldown": 3.85
-            },
-            {
-                "Price": 30000,
-                "Range": 36,
-                "Damage": 5500,
-                "Cooldown": 3.7
-            },
-            {
-                "Price": 40000,
-                "Range": 40,
-                "Damage": 6500,
-                "Cooldown": 3.5
-            }
-        ]
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
     },
-"Glitched CupCake": {
-        "Type": "AOE",
-        "Image": "rbxassetid://18888327109",
-        "Rarity": "Epic",
-        "PlacePrice": 1500,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 40,
-                "Cooldown": 0.7
-            },
-            {
-                "Price": 2000,
-                "Range": 17,
-                "Damage": 50,
-                "Cooldown": 0.6
-            },
-            {
-                "Price": 2500,
-                "Range": 18,
-                "Damage": 60,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 3000,
-                "Range": 20,
-                "Damage": 80,
-                "Cooldown": 0.35
-            }
-        ]
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 2500,
+        "Cooldown": 1,
+        "Wither": 1.075,
+        "ShinyWither": 1.15,
+        "WitherTime": 1
+      },
+      {
+        "Price": 8000,
+        "Range": 28,
+        "Damage": 3200,
+        "Cooldown": 1,
+        "Wither": 1.075,
+        "ShinyWither": 1.15,
+        "WitherTime": 1
+      },
+      {
+        "Price": 10000,
+        "Range": 31,
+        "Damage": 4000,
+        "Cooldown": 1,
+        "Wither": 1.075,
+        "ShinyWither": 1.15,
+        "WitherTime": 1
+      },
+      {
+        "Price": 12000,
+        "Range": 35,
+        "Damage": 5000,
+        "Cooldown": 1,
+        "Wither": 1.075,
+        "ShinyWither": 1.15,
+        "WitherTime": 1
+      }
+    ]
+  },
+  "Glitched Puppeteer": {
+    "Type": "Splash",
+    "Image": "rbxassetid://18887217738",
+    "Rarity": "Nightmare",
+    "PlacePrice": 20000,
+    "Offset": 0.7,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
     },
-    "The Crying Child": {
-        "Type": "Slow",
-        "Image": "rbxassetid://18937271323",
-        "Rarity": "Secret",
-        "PlacePrice": 800,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 0,
-                "Cooldown": 2.7,
-                "Slow": 0.7
-            },
-            {
-                "Price": 1000,
-                "Range": 25,
-                "Damage": 0,
-                "Cooldown": 2.7,
-                "Slow": 0.5
-            },
-            {
-                "Price": 1400,
-                "Range": 27,
-                "Damage": 0,
-                "Cooldown": 2.7,
-                "Slow": 0.45
-            },
-            {
-                "Price": 1800,
-                "Range": 30,
-                "Damage": 0,
-                "Cooldown": 2.7,
-                "Slow": 0.4
-            },
-            {
-                "Price": 2000,
-                "Range": 32,
-                "Damage": 0,
-                "Cooldown": 2.7,
-                "Slow": 0.3
-            }
-        ]
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 30,
+        "Damage": 4000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 25000,
+        "Range": 33,
+        "Damage": 4750,
+        "Cooldown": 3.85
+      },
+      {
+        "Price": 30000,
+        "Range": 36,
+        "Damage": 5500,
+        "Cooldown": 3.7
+      },
+      {
+        "Price": 40000,
+        "Range": 40,
+        "Damage": 6500,
+        "Cooldown": 3.5
+      }
+    ]
+  },
+  "Glitched CupCake": {
+    "Type": "AOE",
+    "Image": "rbxassetid://18888327109",
+    "Rarity": "Epic",
+    "PlacePrice": 1500,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
     },
-    "SuperNova Freddy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://76770097725500",
-        "Rarity": "Nightmare",
-        "PlacePrice": 1800,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 750,
-                "Cooldown": 0.5,
-                "Slow": 0.4
-            },
-            {
-                "Price": 2000,
-                "Range": 25,
-                "Damage": 1000,
-                "Cooldown": 0.5,
-                "Slow": 0.5
-            },
-            {
-                "Price": 3400,
-                "Range": 27,
-                "Damage": 2000,
-                "Cooldown": 0.5,
-                "Slow": 0.55
-            },
-            {
-                "Price": 4800,
-                "Range": 30,
-                "Damage": 2500,
-                "Cooldown": 0.5,
-                "Slow": 0.6
-            },
-            {
-                "Price": 5500,
-                "Range": 32,
-                "Damage": 2500,
-                "Cooldown": 0.4,
-                "Slow": 0.7
-            }
-        ]
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 40,
+        "Cooldown": 0.7
+      },
+      {
+        "Price": 2000,
+        "Range": 17,
+        "Damage": 50,
+        "Cooldown": 0.6
+      },
+      {
+        "Price": 2500,
+        "Range": 18,
+        "Damage": 60,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 3000,
+        "Range": 20,
+        "Damage": 80,
+        "Cooldown": 0.35
+      }
+    ]
+  },
+  "The Crying Child": {
+    "Type": "Slow",
+    "Image": "rbxassetid://18937271323",
+    "Rarity": "Secret",
+    "PlacePrice": 800,
+    "Offset": 0,
+    "Max": 2,
+    "Passive": {
+      "Name": "Slow",
+      "Description": "Slows enemies by 50-70%"
     },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 0,
+        "Cooldown": 2.7,
+        "Slow": 0.7
+      },
+      {
+        "Price": 1000,
+        "Range": 25,
+        "Damage": 0,
+        "Cooldown": 2.7,
+        "Slow": 0.5
+      },
+      {
+        "Price": 1400,
+        "Range": 27,
+        "Damage": 0,
+        "Cooldown": 2.7,
+        "Slow": 0.45
+      },
+      {
+        "Price": 1800,
+        "Range": 30,
+        "Damage": 0,
+        "Cooldown": 2.7,
+        "Slow": 0.4
+      },
+      {
+        "Price": 2000,
+        "Range": 32,
+        "Damage": 0,
+        "Cooldown": 2.7,
+        "Slow": 0.3
+      }
+    ]
+  },
+  "SuperNova Freddy": {
+    "Type": "AOE",
+    "Image": "rbxassetid://76770097725500",
+    "Rarity": "Nightmare",
+    "PlacePrice": 1800,
+    "Offset": 0,
+    "Max": 2,
+    "Passive": {
+      "Name": "Slow",
+      "Description": "Slows enemies by 50-70%"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 750,
+        "Cooldown": 0.5,
+        "Slow": 0.4
+      },
+      {
+        "Price": 2000,
+        "Range": 25,
+        "Damage": 1000,
+        "Cooldown": 0.5,
+        "Slow": 0.5
+      },
+      {
+        "Price": 3400,
+        "Range": 27,
+        "Damage": 2000,
+        "Cooldown": 0.5,
+        "Slow": 0.55
+      },
+      {
+        "Price": 4800,
+        "Range": 30,
+        "Damage": 2500,
+        "Cooldown": 0.5,
+        "Slow": 0.6
+      },
+      {
+        "Price": 5500,
+        "Range": 32,
+        "Damage": 2500,
+        "Cooldown": 0.4,
+        "Slow": 0.7
+      }
+    ]
+  }
+}
     "Nightmare Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://18974775213",
