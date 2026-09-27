@@ -702,52 +702,7 @@
                 "Damage": 1000,
                 "Cooldown": 0.5,
                 "Wither": 1.35,
-                "ShinyWither": 1.35,
-                "WitherTime": 1
-            }
-        ]
-    },
-    "Endo": {
-        "Type": "Support",
-        "Image": "rbxassetid://17851638702",
-        "Rarity": "Secret",
-        "PlacePrice": 1000,
-        "NoEnemyAttack": true,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.06
-            },
-            {
-                "Price": 1700,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.12
-            },
-            {
-                "Price": 2200,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.18
-            },
-            {
-                "Price": 2500,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.24
-            }
+	       }
         ]
     },
 ["Purple Bunny"] = {
@@ -830,6 +785,45 @@
         }
     }
 },
+["Endo 02"] = {
+    ["Type"] = "Single",
+    ["Image"] = "rbxassetid://17690383931",
+    ["Rarity"] = "Secret",
+    ["PlacePrice"] = 600,
+    ["Max"] = 4,
+    ["hitboxOffset"] = {
+        ["X"] = 0,
+        ["Y"] = 0,
+        ["Z"] = 0
+    },
+    ["Offset"] = -0.5,
+    ["Upgrades"] = {
+        {
+            ["Price"] = 0,
+            ["Range"] = 15,
+            ["Damage"] = 30,
+            ["Cooldown"] = 0.15
+        },
+        {
+            ["Price"] = 1200,
+            ["Range"] = 18,
+            ["Damage"] = 35,
+            ["Cooldown"] = 0.15
+        },
+        {
+            ["Price"] = 1600,
+            ["Range"] = 22,
+            ["Damage"] = 45,
+            ["Cooldown"] = 0.15
+        },
+        {
+            ["Price"] = 2200,
+            ["Range"] = 25,
+            ["Damage"] = 60,
+            ["Cooldown"] = 0.15
+        }
+    }
+}
 ["Endo 02"] = {
     ["Type"] = "Single",
     ["Image"] = "rbxassetid://17690383931",
