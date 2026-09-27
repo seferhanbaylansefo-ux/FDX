@@ -750,125 +750,125 @@
             }
         ]
     },
-	 "Purple Bunny": {
-        "Type": "AOE",
-        "Image": "rbxassetid://72491607113087",
-        "Rarity": "Nightmare",
-        "PlacePrice": 33333,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 55555,
-                "Range": 15,
-                "Damage": 500,
-                "Cooldown": 0.2,
-                "DamageBoost": 1.33
-            },
-            {
-                "Price": 77777,
-                "Range": 15,
-                "Damage": 650,
-                "Cooldown": 0.175,
-                "DamageBoost": 1.44
-            },
-            {
-                "Price": 66666,
-                "Range": 15,
-                "Damage": 800,
-                "Cooldown": 0.15,
-                "DamageBoost": 1.55
-            },
-            {
-                "Price": 99999,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 0.1,
-                "DamageBoost": 1.66
-            }
-        ]
+["Purple Bunny"] = {
+    ["Type"] = "AOE",
+    ["Image"] = "rbxassetid://72491607113087",
+    ["Rarity"] = "Nightmare",
+    ["PlacePrice"] = 33333,
+    ["Max"] = 2,
+    ["hitboxOffset"] = {
+        ["X"] = 0,
+        ["Y"] = 0,
+        ["Z"] = 0
     },
-	 "SuperNova Freddy": {
-        "Type": "Cone AOE",
-        "Image": "rbxassetid://76770097725500",
-        "Rarity": "Nightmare",
-        "PlacePrice": 15000,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
+    ["Upgrades"] = {
+        {
+            ["Price"] = 55555,
+            ["Range"] = 15,
+            ["Damage"] = 500,
+            ["Cooldown"] = 0.2,
+            ["DamageBoost"] = 1.33
         },
-        "Upgrades": [
-            {
-                "Price": 20000,
-                "Range": 35,
-                "Damage": 750,
-                "Cooldown": 0.25,
-            },
-            {
-                "Price": 25000,
-                "Range": 45,
-                "Damage": 1000,
-                "Cooldown": 0.25,
-            },
-            {
-                "Price": 30000,
-                "Range": 55,
-                "Damage": 1250,
-                "Cooldown": 0.25,
-            },
-            {
-                "Price": 35000,
-                "Range": 65,
-                "Damage": 1500,
-                "Cooldown": 0.25,
-            }
-        ]
-    },
-    "Endo 02": {
-        "Type": "Single",
-        "Image": "rbxassetid://17690383931",
-        "Rarity": "Secret",
-        "PlacePrice": 600,
-        "Max": 4,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
+        {
+            ["Price"] = 77777,
+            ["Range"] = 15,
+            ["Damage"] = 650,
+            ["Cooldown"] = 0.175,
+            ["DamageBoost"] = 1.44
         },
-        "Offset": -0.5,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 30,
-                "Cooldown": 0.15
-            },
-            {
-                "Price": 1200,
-                "Range": 18,
-                "Damage": 35,
-                "Cooldown": 0.15
-            },
-            {
-                "Price": 1600,
-                "Range": 22,
-                "Damage": 45,
-                "Cooldown": 0.15
-            },
-            {
-                "Price": 2200,
-                "Range": 25,
-                "Damage": 60,
-                "Cooldown": 0.15
-            }
-        ]
+        {
+            ["Price"] = 66666,
+            ["Range"] = 15,
+            ["Damage"] = 800,
+            ["Cooldown"] = 0.15,
+            ["DamageBoost"] = 1.55
+        },
+        {
+            ["Price"] = 99999,
+            ["Range"] = 15,
+            ["Damage"] = 1000,
+            ["Cooldown"] = 0.1,
+            ["DamageBoost"] = 1.66
+        }
+    }
+},
+["SuperNova Freddy"] = {
+    ["Type"] = "Cone AOE",
+    ["Image"] = "rbxassetid://76770097725500",
+    ["Rarity"] = "Nightmare",
+    ["PlacePrice"] = 15000,
+    ["Max"] = 3,
+    ["hitboxOffset"] = {
+        ["X"] = 0,
+        ["Y"] = 0,
+        ["Z"] = 0
     },
+    ["Upgrades"] = {
+        {
+            ["Price"] = 20000,
+            ["Range"] = 35,
+            ["Damage"] = 750,
+            ["Cooldown"] = 0.25
+        },
+        {
+            ["Price"] = 25000,
+            ["Range"] = 45,
+            ["Damage"] = 1000,
+            ["Cooldown"] = 0.25
+        },
+        {
+            ["Price"] = 30000,
+            ["Range"] = 55,
+            ["Damage"] = 1250,
+            ["Cooldown"] = 0.25
+        },
+        {
+            ["Price"] = 35000,
+            ["Range"] = 65,
+            ["Damage"] = 1500,
+            ["Cooldown"] = 0.25
+        }
+    }
+},
+["Endo 02"] = {
+    ["Type"] = "Single",
+    ["Image"] = "rbxassetid://17690383931",
+    ["Rarity"] = "Secret",
+    ["PlacePrice"] = 600,
+    ["Max"] = 4,
+    ["hitboxOffset"] = {
+        ["X"] = 0,
+        ["Y"] = 0,
+        ["Z"] = 0
+    },
+    ["Offset"] = -0.5,
+    ["Upgrades"] = {
+        {
+            ["Price"] = 0,
+            ["Range"] = 15,
+            ["Damage"] = 30,
+            ["Cooldown"] = 0.15
+        },
+        {
+            ["Price"] = 1200,
+            ["Range"] = 18,
+            ["Damage"] = 35,
+            ["Cooldown"] = 0.15
+        },
+        {
+            ["Price"] = 1600,
+            ["Range"] = 22,
+            ["Damage"] = 45,
+            ["Cooldown"] = 0.15
+        },
+        {
+            ["Price"] = 2200,
+            ["Range"] = 25,
+            ["Damage"] = 60,
+            ["Cooldown"] = 0.15
+        }
+    }
+}
     "Plane Boy": {
         "Type": "Continuous",
         "Image": "rbxassetid://17689713814",
