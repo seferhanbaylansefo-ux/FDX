@@ -617,46 +617,46 @@
             }
         ]
     },
-    "Puppet": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://17802016570",
-        "Rarity": "Secret",
-        "PlacePrice": 10000,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -1.9,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 7
-            },
-            {
-                "Price": 15000,
-                "Range": 35,
-                "Damage": 1200,
-                "Cooldown": 6
-            },
-            {
-                "Price": 20000,
-                "Range": 40,
-                "Damage": 1400,
-                "Cooldown": 5
-            },
-            {
-                "Price": 25000,
-                "Range": 45,
-                "Damage": 1600,
-                "Cooldown": 4
-            }
-        ]
+  ["Puppet"] = {
+    ["Type"] = "Pierce",
+    ["Image"] = "rbxassetid://17802016570",
+    ["Rarity"] = "Secret",
+    ["PlacePrice"] = 10000,
+    ["Max"] = 2,
+    ["hitboxOffset"] = {
+        ["X"] = 0,
+        ["Y"] = 0,
+        ["Z"] = 0
     },
- ["Withered Golden Freddy"] = {
+    ["Offset"] = -1.9,
+    ["Upgrades"] = {
+        {
+            ["Price"] = 0,
+            ["Range"] = 30,
+            ["Damage"] = 1000,
+            ["Cooldown"] = 7
+        },
+        {
+            ["Price"] = 15000,
+            ["Range"] = 35,
+            ["Damage"] = 1200,
+            ["Cooldown"] = 6
+        },
+        {
+            ["Price"] = 20000,
+            ["Range"] = 40,
+            ["Damage"] = 1400,
+            ["Cooldown"] = 5
+        },
+        {
+            ["Price"] = 25000,
+            ["Range"] = 45,
+            ["Damage"] = 1600,
+            ["Cooldown"] = 4
+        }
+    }
+},
+["Withered Golden Freddy"] = {
     ["Type"] = "Single Wither",
     ["Image"] = "rbxassetid://16781122207",
     ["Rarity"] = "Nightmare",
@@ -828,85 +828,46 @@
             ["Cooldown"] = 0.15
         }
     }
-}
-["Endo 02"] = {
-    ["Type"] = "Single",
-    ["Image"] = "rbxassetid://17690383931",
+},
+["Plane Boy"] = {
+    ["Type"] = "Continuous",
+    ["Image"] = "rbxassetid://17689713814",
     ["Rarity"] = "Secret",
-    ["PlacePrice"] = 600,
-    ["Max"] = 4,
+    ["PlacePrice"] = 20000,
+    ["Offset"] = 2,
+    ["Max"] = 2,
     ["hitboxOffset"] = {
         ["X"] = 0,
         ["Y"] = 0,
         ["Z"] = 0
     },
-    ["Offset"] = -0.5,
     ["Upgrades"] = {
         {
             ["Price"] = 0,
-            ["Range"] = 15,
-            ["Damage"] = 30,
-            ["Cooldown"] = 0.15
-        },
-        {
-            ["Price"] = 1200,
-            ["Range"] = 18,
-            ["Damage"] = 35,
-            ["Cooldown"] = 0.15
-        },
-        {
-            ["Price"] = 1600,
-            ["Range"] = 22,
-            ["Damage"] = 45,
-            ["Cooldown"] = 0.15
-        },
-        {
-            ["Price"] = 2200,
             ["Range"] = 25,
-            ["Damage"] = 60,
-            ["Cooldown"] = 0.15
+            ["Damage"] = 55,
+            ["Cooldown"] = 0.05
+        },
+        {
+            ["Price"] = 30000,
+            ["Range"] = 30,
+            ["Damage"] = 65,
+            ["Cooldown"] = 0.05
+        },
+        {
+            ["Price"] = 40000,
+            ["Range"] = 35,
+            ["Damage"] = 80,
+            ["Cooldown"] = 0.05
+        },
+        {
+            ["Price"] = 50000,
+            ["Range"] = 40,
+            ["Damage"] = 100,
+            ["Cooldown"] = 0.05
         }
     }
 }
-    "Plane Boy": {
-        "Type": "Continuous",
-        "Image": "rbxassetid://17689713814",
-        "Rarity": "Secret",
-        "PlacePrice": 20000,
-        "Offset": 2,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 55,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 30000,
-                "Range": 30,
-                "Damage": 65,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 40000,
-                "Range": 35,
-                "Damage": 80,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 50000,
-                "Range": 40,
-                "Damage": 100,
-                "Cooldown": 0.05
-            }
-        ]
-    },
     "Rockin Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
