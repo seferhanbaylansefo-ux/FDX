@@ -861,7 +861,8 @@
         "Cooldown": 0.05
       }
     ]
-},
+  },
+}
     "Pirate Withered Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
