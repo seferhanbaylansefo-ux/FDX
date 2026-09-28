@@ -577,46 +577,46 @@
                 "Cooldown": 3
             }
         ]
+   {
+  "Golden Freddy": {
+    "Type": "Cone AOE",
+    "Image": "rbxassetid://17629034232",
+    "Rarity": "Secret",
+    "PlacePrice": 4000,
+    "Max": 2,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
     },
-    "Golden Freddy": {
-        "Type": "Cone AOE",
-        "Image": "rbxassetid://17629034232",
-        "Rarity": "Secret",
-        "PlacePrice": 4000,
-        "Max": 2,
-        "Offset": 0,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 2500,
-                "Cooldown": 4
-            },
-            {
-                "Price": 7000,
-                "Range": 18,
-                "Damage": 3000,
-                "Cooldown": 3
-            },
-            {
-                "Price": 10000,
-                "Range": 20,
-                "Damage": 3500,
-                "Cooldown": 2.5
-            },
-            {
-                "Price": 15000,
-                "Range": 20,
-                "Damage": 4000,
-                "Cooldown": 2.25
-            }
-        ]
-    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 2500,
+        "Cooldown": 4
+      },
+      {
+        "Price": 7000,
+        "Range": 18,
+        "Damage": 3000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 10000,
+        "Range": 20,
+        "Damage": 3500,
+        "Cooldown": 2.5
+      },
+      {
+        "Price": 15000,
+        "Range": 20,
+        "Damage": 4000,
+        "Cooldown": 2.25
+      }
+    ]
+  },
   "Puppet": {
     "Type": "Pierce",
     "Image": "rbxassetid://17802016570",
@@ -861,52 +861,7 @@
         "Cooldown": 0.05
       }
     ]
-  }
-}
-{
-    "Price" = 40000,
-    "Range" = 35,
-    "Damage" = 80,
-    "Cooldown" = 0.05
 },
-    "Rockin Bonnie": {
-        "Type": "AOE",
-        "Image": "rbxassetid://17689695988",
-        "Rarity": "Secret",
-        "PlacePrice": 500,
-        "Max": 5,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 30,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 800,
-                "Range": 18,
-                "Damage": 45,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 1200,
-                "Range": 20,
-                "Damage": 50,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 1600,
-                "Range": 20,
-                "Damage": 65,
-                "Cooldown": 0.5
-            }
-        ]
-    },
     "Pirate Withered Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
