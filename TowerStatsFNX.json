@@ -15669,6 +15669,45 @@
           }
       ]
 },
+	   "SuperNova Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://76770097725500",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1100,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 6000,
+                "Range": 18,
+                "Damage": 1500,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 11500,
+                "Range": 22,
+                "Damage": 2000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 0.2
+          }
+      ]
+},
 	   "Purple Guy V2": {
         "Type": "AOE",
         "Image": "rbxassetid://90194658703970",
