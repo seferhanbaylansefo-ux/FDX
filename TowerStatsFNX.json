@@ -15389,7 +15389,7 @@
             }
         ]
     }
-}
+},
    "Purple Bunny": {
         "Type": "AOE",
         "Image": "rbxassetid://72491607113087",
@@ -15430,7 +15430,7 @@
             }
         ]
     }
-}
+},
    "Withered Freddy V2": {
         "Type": "Continuous",
         "Image": "rbxassetid://95691267343008",
@@ -15471,7 +15471,7 @@
             }
         ]
     }
-}
+},
    "Withered Chica V2": {
         "Type": "Single",
         "Image": "rbxassetid://122253960149265",
@@ -15512,7 +15512,7 @@
             }
         ]
     }
-}
+},
    "Withered Foxy V2": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://122253960149265",
@@ -15553,7 +15553,7 @@
             }
         ]
     }
-}
+},
    "Withered Bonnie V2": {
         "Type": "Continuous",
         "Image": "rbxassetid://125252556831195",
