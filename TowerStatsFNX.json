@@ -15386,9 +15386,8 @@
                 "Range": 35,
                 "Damage": 155000,
                 "Cooldown": 8
-            }
-        ]
-    }
+           }
+     ]
 },
    "Purple Bunny": {
         "Type": "AOE",
@@ -15427,9 +15426,8 @@
                 "Range": 35,
                 "Damage": 1000,
                 "Cooldown": 0.1
-            }
-        ]
-    }
+         }
+     ]
 },
    "Withered Freddy V2": {
         "Type": "Continuous",
@@ -15468,9 +15466,8 @@
                 "Range": 35,
                 "Damage": 150,
                 "Cooldown": 0.05
-            }
-        ]
-    }
+         }
+     ]
 },
    "Withered Chica V2": {
         "Type": "Single",
@@ -15509,9 +15506,8 @@
                 "Range": 25,
                 "Damage": 300,
                 "Cooldown": 0.75
-            }
-        ]
-    }
+         }
+    ]
 },
    "Withered Foxy V2": {
         "Type": "Cone AOE",
@@ -15550,9 +15546,8 @@
                 "Range": 25,
                 "Damage": 500,
                 "Cooldown": 0.75
-            }
-        ]
-    }
+         }
+     ]
 },
    "Withered Bonnie V2": {
         "Type": "Continuous",
