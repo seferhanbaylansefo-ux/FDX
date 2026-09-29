@@ -15390,3 +15390,208 @@
         ]
     }
 }
+   "Purple Bunny": {
+        "Type": "AOE",
+        "Image": "rbxassetid://72491607113087",
+        "Rarity": "Nightmare",
+        "PlacePrice": 99999,
+        "Max": 1,
+        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 750,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 119999,
+                "Range": 28,
+                "Damage": 850,
+                "Cooldown": 0.175
+            },
+            {
+                "Price": 139999,
+                "Range": 32,
+                "Damage": 900,
+                "Cooldown": 0.15
+            },
+            {
+                "Price": 159999,
+                "Range": 35,
+                "Damage": 1000,
+                "Cooldown": 0.1
+            }
+        ]
+    }
+}
+   "Withered Freddy V2": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://95691267343008",
+        "Rarity": "Mythic",
+        "PlacePrice": 2500,
+        "Max": 3,
+        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 75,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1199,
+                "Range": 28,
+                "Damage": 100,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1399,
+                "Range": 32,
+                "Damage": 125,
+                "Cooldown": 0.075
+            },
+            {
+                "Price": 1599,
+                "Range": 35,
+                "Damage": 150,
+                "Cooldown": 0.05
+            }
+        ]
+    }
+}
+   "Withered Chica V2": {
+        "Type": "Single",
+        "Image": "rbxassetid://122253960149265",
+        "Rarity": "Rare",
+        "PlacePrice": 500,
+        "Max": 4,
+        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 175,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 18,
+                "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 22,
+                "Damage": 225,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 1750,
+                "Range": 25,
+                "Damage": 300,
+                "Cooldown": 0.75
+            }
+        ]
+    }
+}
+   "Withered Foxy V2": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://122253960149265",
+        "Rarity": "Epic",
+        "PlacePrice": 1500,
+        "Max": 3,
+        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 275,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 18,
+                "Damage": 350,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 22,
+                "Damage": 425,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 1750,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.75
+            }
+        ]
+    }
+}
+   "Withered Bonnie V2": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://125252556831195",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 275,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 16000,
+                "Range": 18,
+                "Damage": 350,
+                "Cooldown": 0.075
+            },
+            {
+                "Price": 21500,
+                "Range": 22,
+                "Damage": 425,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25750,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.05
+            }
+        ]
+    }
+}
