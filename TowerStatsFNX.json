@@ -15586,7 +15586,127 @@
                 "Range": 25,
                 "Damage": 500,
                 "Cooldown": 0.05
-            }
-        ]
-    }
+          }
+      ]
+},
+   "Mangle V2": {
+        "Type": "Cone AOE Burn",
+        "Image": "rbxassetid://112927023413469",
+        "Rarity": "Nightmare",
+        "PlacePrice": 35000,
+        "Max": 1,
+        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1750,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 46000,
+                "Range": 18,
+                "Damage": 2000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 51500,
+                "Range": 22,
+                "Damage": 2500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 55750,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 0.2
+          }
+      ]
+},
+   "Shadow Freddy V2": {
+        "Type": "AOE",
+        "Image": "rbxassetid://78335841341739",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 1,
+        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 6000,
+                "Range": 18,
+                "Damage": 350,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 11500,
+                "Range": 22,
+                "Damage": 400,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.2
+          }
+      ]
+},
+	   "Purple Guy V2": {
+        "Type": "AOE",
+        "Image": "rbxassetid://78335841341739",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Max": 3,
+        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1500,
+                "Range": 18,
+                "Damage": 350,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2500,
+                "Range": 22,
+                "Damage": 400,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 3500,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.4
+          }
+      ]
+   }
 }
