@@ -15708,13 +15708,12 @@
           }
       ]
 },
-	   "Purple Guy V2": {
-        "Type": "AOE",
+	   "Unwithered Astral Bonnie": {
+        "Type": "Pierce,Anti Macroer",
         "Image": "rbxassetid://90194658703970",
         "Rarity": "Secret",
-        "PlacePrice": 800,
-        "Max": 3,
-        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
+        "PlacePrice": 15000,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -15725,26 +15724,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 250,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 1500,
-                "Range": 18,
-                "Damage": 350,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 2500,
-                "Range": 22,
-                "Damage": 400,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 3500,
-                "Range": 25,
-                "Damage": 500,
+                "Damage": 2500,
                 "Cooldown": 0.4
+            },
+            {
+                "Price": 25000,
+                "Range": 18,
+                "Damage": 3500,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 35500,
+                "Range": 22,
+                "Damage": 4000,
+                "Cooldown": 0.33
+            },
+            {
+                "Price": 43500,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 0.33
           }
       ]
    }
