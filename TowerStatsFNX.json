@@ -2888,7 +2888,7 @@
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 2.7,
-                "Slow": 0.
+                "Slow": 0.5
             },
             {
                 "Price": 2000,
