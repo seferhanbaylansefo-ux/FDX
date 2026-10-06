@@ -3241,7 +3241,7 @@
         "Type": "Cone AOE Burn",
         "Image": "rbxassetid://18989232497",
         "Rarity": "Secret",
-        "PlacePrice": 2500,
+        "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
         "Passive": {"Name": "Burn", "Description": "Burns enemies"},
@@ -3256,32 +3256,32 @@
                 "Range": 17,
                 "Damage": 500,
                 "Burn": 38,
-                "BurnTime": 0.3,
-                "Cooldown": 1
+                "BurnTime": 1,
+                "Cooldown": 0.75
             },
             {
-                "Price": 4000,
+                "Price": 1000,
                 "Range": 19,
                 "Damage": 600,
                 "Burn": 50,
                 "BurnTime": 1.2,
-                "Cooldown": 0.2
+                "Cooldown": 0.7
             },
             {
-                "Price": 5000,
+                "Price": 1500,
                 "Range": 20,
                 "Damage": 750,
                 "Burn": 62,
                 "BurnTime": 1.2,
-                "Cooldown": 0.2
+                "Cooldown": 0.6
             },
             {
-                "Price": 6000,
+                "Price": 2000,
                 "Range": 22,
                 "Damage":1000,
                 "Burn": 80,
-                "BurnTime": 0.2,
-                "Cooldown": 1
+                "BurnTime": 1.2,
+                "Cooldown": 0.5
             }
         ]
     },
