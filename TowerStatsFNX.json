@@ -2028,9 +2028,9 @@
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
         "Rarity": "Nightmare",
-        "PlacePrice": 3500,
+        "PlacePrice": 353500,
         "Offset": 0.45,
-        "Max": 4,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
