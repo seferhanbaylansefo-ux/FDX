@@ -2028,7 +2028,7 @@
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
         "Rarity": "Nightmare",
-        "PlacePrice": 353500,
+        "PlacePrice": 35500,
         "Offset": 0.45,
         "Max": 1,
         "hitboxOffset": {
@@ -2047,19 +2047,19 @@
                 "Price": 5000,
                 "Range": 23,
                 "Damage": 780,
-                "Cooldown": 0.05
+                "Cooldown": 0.03
             },
             {
                 "Price": 6000,
                 "Range": 26,
                 "Damage": 900,
-                "Cooldown": 0.05
+                "Cooldown": 0.025
             },
             {
                 "Price": 7000,
                 "Range": 30,
                 "Damage": 1125,
-                "Cooldown": 0.05
+                "Cooldown": 0.02
             }
         ]
     },
@@ -4634,7 +4634,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 100000,
         "Offset": 0,
-        "Max": 1,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4644,31 +4644,31 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 10000,
+                "Damage": 5000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 125000,
                 "Range": 25,
-                "Damage": 12500,
+                "Damage": 6500,
                 "Cooldown": 0.25
             },
             {
                 "Price": 150000,
                 "Range": 30,
-                "Damage": 15000,
+                "Damage": 7500,
                 "Cooldown": 0.25
             },
             {
                 "Price": 175000,
                 "Range": 35,
-                "Damage": 17500,
+                "Damage": 8750,
                 "Cooldown": 0.25
             },
             {
                 "Price": 200000,
                 "Range": 40,
-                "Damage": 20000,
+                "Damage": 10000,
                 "Cooldown": 0.25
             }
         ]
