@@ -5521,7 +5521,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 4000,
+                "Damage": 8000,
                 "Cooldown": 2.5,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -5529,7 +5529,7 @@
             {
                 "Price": 10000,
                 "Range": 27,
-                "Damage": 5000,
+                "Damage": 10000,
                 "Cooldown": 2.4,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -5537,7 +5537,7 @@
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 6500,
+                "Damage": 12500,
                 "Cooldown": 2.3,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -5545,7 +5545,7 @@
             {
                 "Price": 30000,
                 "Range": 34,
-                "Damage": 8000,
+                "Damage": 16000,
                 "Cooldown": 2.2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -5553,7 +5553,7 @@
             {
                 "Price": 40000,
                 "Range": 37,
-                "Damage": 12000,
+                "Damage": 24000,
                 "Cooldown": 2.1,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -5646,25 +5646,25 @@
             {
                 "Price": 0,
                 "Range": 32,
-                "Damage": 5000,
+                "Damage": 2000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 58000,
                 "Range": 35,
-                "Damage": 7000,
+                "Damage": 3000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 60000,
                 "Range": 38,
-                "Damage": 9000,
+                "Damage": 4000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 62000,
                 "Range": 42,
-                "Damage": 11000,
+                "Damage": 5000,
                 "Cooldown": 0.25
             }
         ]
