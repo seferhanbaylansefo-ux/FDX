@@ -15708,6 +15708,112 @@
           }
       ]
 },
+"Tax Freddy": {
+        "Type": "AOE DMG + Slow",
+        "Image": "rbxassetid://105208611187965",
+        "Rarity": "Epic",
+        "PlacePrice": 750,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {
+            "Name": "Get Taxes",
+            "Description": "Slows all enemies in range by 30% and applies 15% anti regen for 1 second"
+        },
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 120,
+                "Cooldown": 0.5,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 135,
+                "Cooldown": 0.5,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.5,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 25,
+                "Damage": 175,
+                "Cooldown": 0.5,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            }
+        ]
+    },
+	    "Cash Bag Freddy": {
+        "Type": "Nuke + Burn + Passive",
+        "Image": "rbxassetid://71025511025274",
+        "Rarity": "Nightmare",
+        "PlacePrice": 75000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {
+            "Name": "Moneeey!",
+            "Description": "Drops an Cash Bag that deals 75x damage with 20% wither and 60% slow for 10 seconds every 40 seconds"
+        },
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 7000,
+                "Cooldown": 0.5,
+                "Burn": 5000,
+                "BurnTime": 0.5
+            },
+            {
+                "Price": 90000,
+                "Range": 40,
+                "Damage": 8000,
+                "Cooldown": 0.5,
+                "Burn": 5000,
+                "BurnTime": 0.5
+            },
+            {
+                "Price": 100000,
+                "Range": 45,
+                "Damage": 9000,
+                "Cooldown": 0.5,
+                "Burn": 5000,
+                "BurnTime": 0.5
+            },
+            {
+                "Price": 111111,
+                "Range": 50,
+                "Damage": 10000,
+                "Cooldown": 0.5,
+                "Burn": 5000,
+                "BurnTime": 0.5
+		   }
+        ]
+    },
 	   "Unwithered Astral Bonnie": {
         "Type": "Pierce",
         "Image": "rbxassetid://90194658703970",
