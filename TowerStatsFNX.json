@@ -7495,7 +7495,7 @@
                 "Range": 20,
                 "Damage": 10,
                 "Cooldown": 1,
-                "DamageBoost": 6336.1353535,
+                "DamageBoost": 1.1353535,
                 "RangeBoost": 1.235353535
             },
             {
@@ -7519,8 +7519,8 @@
                 "Range": 20,
                 "Damage": 10,
                 "Cooldown": 1,
-                "DamageBoost": 35355335.235355335353535357,
-                "RangeBoost": 3535353535.35355376537375
+                "DamageBoost": 1.275355335353535357,
+                "RangeBoost": 1.45355376537375
             }
         ]
     },
