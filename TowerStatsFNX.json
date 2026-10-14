@@ -5012,10 +5012,10 @@
     },
 
 "Circus Baby": {
-        "Type": "Slash Stun",
+        "Type": "Slash",
         "Image": "rbxassetid://109411645448750",
         "Rarity": "Epic",
-        "PlacePrice": 22500,
+        "PlacePrice": 2250,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Family Reunion", "Description": "Attacks stun enemies for 0.5 seconds. Circus Baby gains an additional 40% damage boost (stackable up to 120%) if a Springtrap or Ballora are on the same team."},
@@ -5034,7 +5034,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 20000,
+                "Price": 2000,
                 "Range": 31,
                 "Damage": 637,
                 "Cooldown": 1.5,
@@ -5042,7 +5042,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 25000,
+                "Price": 2500,
                 "Range": 34,
                 "Damage": 796,
                 "Cooldown": 1.25,
@@ -5050,7 +5050,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 30000,
+                "Price": 3000,
                 "Range": 37,
                 "Damage": 956,
                 "Cooldown": 1,
@@ -5107,7 +5107,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://130210196007742",
         "Rarity": "Secret",
-        "PlacePrice": 450,
+        "PlacePrice": 25000,
         "Offset": 0.3,
         "Max": 3,
         "hitboxOffset": {
@@ -5119,25 +5119,25 @@
             {
                 "Price": 0,
                 "Range": 17,
-                "Damage": 8000,
+                "Damage": 28000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 600,
                 "Range": 18,
-                "Damage": 9000,
+                "Damage": 29000,
                 "Cooldown": 1.4
             },
             {
                 "Price": 800,
                 "Range": 19,
-                "Damage": 10000,
+                "Damage": 30000,
                 "Cooldown": 1.2
             },
             {
                 "Price": 1000,
                 "Range": 20,
-                "Damage": 12500,
+                "Damage": 32500,
                 "Cooldown": 1
             }
         ]
