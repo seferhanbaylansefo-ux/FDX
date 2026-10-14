@@ -5014,7 +5014,7 @@
 "Circus Baby": {
         "Type": "Slash Stun",
         "Image": "rbxassetid://109411645448750",
-        "Rarity": "Nightmare",
+        "Rarity": "Epic",
         "PlacePrice": 22500,
         "Offset": 0,
         "Max": 2,
@@ -5028,32 +5028,32 @@
             {
                 "Price": 0,
                 "Range": 28,
-                "Damage": 4782,
-                "Cooldown": 3.25,
+                "Damage": 478,
+                "Cooldown": 1.725,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
                 "Price": 20000,
                 "Range": 31,
-                "Damage": 6374,
-                "Cooldown": 3,
+                "Damage": 637,
+                "Cooldown": 1.5,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
                 "Price": 25000,
                 "Range": 34,
-                "Damage": 7968,
-                "Cooldown": 2.75,
+                "Damage": 796,
+                "Cooldown": 1.25,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
                 "Price": 30000,
                 "Range": 37,
-                "Damage": 9562,
-                "Cooldown": 2.55,
+                "Damage": 956,
+                "Cooldown": 1,
                 "Slow": 0,
                 "SlowTime": 0.5
             }
@@ -5106,7 +5106,7 @@
 "Funtime Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://130210196007742",
-        "Rarity": "Rare",
+        "Rarity": "Secret",
         "PlacePrice": 450,
         "Offset": 0.3,
         "Max": 3,
@@ -5119,25 +5119,25 @@
             {
                 "Price": 0,
                 "Range": 17,
-                "Damage": 80,
+                "Damage": 8000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 600,
                 "Range": 18,
-                "Damage": 90,
+                "Damage": 9000,
                 "Cooldown": 1.4
             },
             {
                 "Price": 800,
                 "Range": 19,
-                "Damage": 100,
+                "Damage": 10000,
                 "Cooldown": 1.2
             },
             {
                 "Price": 1000,
                 "Range": 20,
-                "Damage": 125,
+                "Damage": 12500,
                 "Cooldown": 1
             }
         ]
@@ -5145,8 +5145,8 @@
 "Funtime Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://113691386593768",
-        "Rarity": "Epic",
-        "PlacePrice": 7500,
+        "Rarity": "Rare",
+        "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -5158,25 +5158,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 500,
+                "Damage": 100,
                 "Cooldown": 1
             },
             {
                 "Price": 10000,
                 "Range": 22,
-                "Damage": 600,
+                "Damage": 150,
                 "Cooldown": 1
             },
             {
                 "Price": 12000,
                 "Range": 24,
-                "Damage": 700,
+                "Damage": 200,
                 "Cooldown": 1
             },
             {
                 "Price": 14000,
                 "Range": 25,
-                "Damage": 800,
+                "Damage": 250,
                 "Cooldown": 1
             }
         ]
