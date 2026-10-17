@@ -1,7 +1,7 @@
 {
     "Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://122092756529880",
+        "Image": "rbxassetid://16620053009",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
         "Max": 8,
@@ -40,7 +40,7 @@
     },
     "Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16165837690596",
+        "Image": "rbxassetid://16620303027",
         "Rarity": "Uncommon",
         "PlacePrice": 500,
         "Max": 3,
@@ -78,7 +78,7 @@
     },
     "Foxy": {
         "Type": "Melee",
-        "Image": "rbxassetid://16620218689",
+        "Image": "rbxassetid://16620268084",
         "Rarity": "Rare",
         "PlacePrice": 600,
         "Offset": 0.65,
@@ -15761,6 +15761,129 @@
                 "Bleed": 0.85,
                 "BleedTime": 1
             }
+        ]
+    },
+		    "Happy Frog-it": {
+        "Type": "Single + Passive",
+        "Image": "rbxassetid://71025511025274",
+        "Rarity": "Epic",
+        "PlacePrice": 250,
+        "Offset": 0,
+        "Max": 4,
+        "Passive": {
+            "Name": "Frog-it!",
+            "Description": "Every 10 Seconds Does 100% More Damage for 3 Seconds"
+        },
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 40,
+                "Cooldown": 0.5,
+            },
+            {
+                "Price": 500,
+                "Range": 30,
+                "Damage": 25,
+                "Cooldown": 0.5,
+            },
+            {
+                "Price": 800,
+                "Range": 35,
+                "Damage": 80,
+                "Cooldown": 0.5,
+            },
+            {
+                "Price": 1000,
+                "Range": 40,
+                "Damage": 100,
+                "Cooldown": 0.5,
+		   }
+        ]
+    },
+			    "Frisk Crying Child": {
+        "Type": "Cone Aoe",
+        "Image": "rbxassetid://71025511025274",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Offset": 0,
+        "Max": 2,
+        },
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 80,
+                "Cooldown": 0.2,
+            },
+            {
+                "Price": 7500,
+                "Range": 17.5,
+                "Damage": 85,
+                "Cooldown": 0.175,
+            },
+            {
+                "Price": 8000,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 0.15,
+            },
+            {
+                "Price": 10000,
+                "Range": 30,
+                "Damage": 125,
+                "Cooldown": 0.125,
+		   }
+        ]
+    },
+		    "Sans Withered Bonnie": {
+        "Type": "Pierce + Slow + Charge + Bleed ",
+        "Image": "rbxassetid://71025511025274",
+        "Rarity": "Secret",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 1,
+        },
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 800,
+                "Cooldown": 0.2,
+            },
+            {
+                "Price": 7500,
+                "Range": 17.5,
+                "Damage": 85,
+                "Cooldown": 0.175,
+            },
+            {
+                "Price": 8000,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 0.15,
+            },
+            {
+                "Price": 10000,
+                "Range": 30,
+                "Damage": 125,
+                "Cooldown": 0.125,
+		   }
         ]
     },
 	    "Cash Bag Freddy": {
