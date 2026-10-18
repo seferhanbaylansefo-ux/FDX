@@ -979,6 +979,86 @@
       }
     ]
   },
+    "Sans": {
+    "Type": "Single",
+    "Image": "rbxassetid://17851205149",
+    "Rarity": "Epic",
+    "PlacePrice": 50,
+    "Offset": 1.55,
+    "Max": 3,
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 70,
+        "Cooldown": 1
+      },
+      {
+        "Price": 100,
+        "Range": 23,
+        "Damage": 80,
+        "Cooldown": 1
+      },
+      {
+        "Price": 140,
+        "Range": 25,
+        "Damage": 90,
+        "Cooldown": 1
+      },
+      {
+        "Price": 200,
+        "Range": 27,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+    "Happy Frog-it": {
+    "Type": "Single",
+    "Image": "rbxassetid://17851205149",
+    "Rarity": "Epic",
+    "PlacePrice": 50,
+    "Offset": 1.55,
+    "Max": 3,
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 70,
+        "Cooldown": 1
+      },
+      {
+        "Price": 100,
+        "Range": 23,
+        "Damage": 80,
+        "Cooldown": 1
+      },
+      {
+        "Price": 140,
+        "Range": 25,
+        "Damage": 90,
+        "Cooldown": 1
+      },
+      {
+        "Price": 200,
+        "Range": 27,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
   "Marionette's Puppeteer": {
     "Type": "AOE",
     "Image": "rbxassetid://18151575297",
