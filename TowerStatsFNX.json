@@ -5672,11 +5672,11 @@
     "ITS ME": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://120282726125561",
-        "Rarity": "Nightmare",
-        "PlacePrice": 7500,
+        "Rarity": "Mythic",
+        "PlacePrice": 750,
         "Offset": -1.4,
         "Max": 1,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies by 40%"},
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 20%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5686,33 +5686,33 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1200,
+                "Damage": 80,
                 "Cooldown": 0.25,
-                "Slow": 0.6,
+                "Slow": 0.8,
                 "SlowTime": 1
             },
             {
                 "Price": 15000,
                 "Range": 22,
-                "Damage": 1400,
+                "Damage": 100,
                 "Cooldown": 0.25,
-                "Slow": 0.6,
+                "Slow": 0.8,
                 "SlowTime": 1
             },
             {
                 "Price": 20000,
                 "Range": 24,
-                "Damage": 1800,
+                "Damage": 130,
                 "Cooldown": 0.25,
-                "Slow": 0.6,
+                "Slow": 0.8,
                 "SlowTime": 1
             },
             {
                 "Price": 25000,
                 "Range": 27,
-                "Damage": 2250,
+                "Damage": 150,
                 "Cooldown": 0.25,
-                "Slow": 0.6,
+                "Slow": 0.8,
                 "SlowTime": 1
             }
         ]
