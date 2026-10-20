@@ -10254,6 +10254,50 @@
             }
         ]
     },
+	   "Upgraded Titan Freddy": {
+        "Type": "AOE + Passive + Stun + Cone AOE",
+        "Image": "rbxassetid://78775426136136",
+        "Rarity": "Apex",
+        "PlacePrice": 80000,
+        "Offset": 0.3,
+        "Max": 1,
+        "Passive": {"Name": "Giant Slayer", "Description": "Gains a stacking +233.3% damage to imps (Cap of 3). Scaling True Stun, 1 = 0.5s. 2 = 1s. 3 = 1.5s. If a boss is in range acts as max scaling."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 60000,
+                "Cooldown": 2,
+                "LargeDamage": 1.7
+            },
+            {
+                "Price": 85000,
+                "Range": 32,
+                "Damage": 80000,
+                "Cooldown": 2,
+                "LargeDamage": 1.7
+            },
+            {
+                "Price": 90000,
+                "Range": 35,
+                "Damage": 92000,
+                "Cooldown": 1.75,
+                "LargeDamage": 1.7
+            },
+            {
+                "Price": 100000,
+                "Range": 40,
+                "Damage": 105000,
+                "Cooldown": 1.5,
+                "LargeDamage": 1.7
+            }
+        ]
+    },
     "Archer Fredeus": {
         "Type": "Single",
         "Image": "rbxassetid://113101409953014",
