@@ -6648,25 +6648,25 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 40,
+                "Damage": 80,
                 "Cooldown": 0.05
             },
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage": 60,
+                "Damage": 120,
                 "Cooldown": 0.05
             },
             {
                 "Price": 25000,
                 "Range": 23,
-                "Damage": 80,
+                "Damage": 160,
                 "Cooldown": 0.05
             },
             {
                 "Price": 35000,
                 "Range": 26,
-                "Damage": 100,
+                "Damage": 200,
                 "Cooldown": 0.05
             }
         ]
@@ -6707,6 +6707,45 @@
                 "Range": 10,
                 "Damage": 200,
                 "Cooldown": 0.75
+            }
+        ]
+    },
+	 "Dual Blade Foxy": {
+        "Type": "Dual",
+        "Image": "rbxassetid://99151054438999",
+        "Rarity": "Rare",
+        "PlacePrice": 1600,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 7,
+                "Damage": 120,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 1800,
+                "Range": 8,
+                "Damage": 160,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 2200,
+                "Range": 9,
+                "Damage": 200,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 3000,
+                "Range": 10,
+                "Damage": 200,
+                "Cooldown": 0.2
             }
         ]
     },
@@ -6824,6 +6863,45 @@
                 "Range": 15,
                 "Damage": 120,
                 "Cooldown": 0.75
+            }
+        ]
+    },
+	"Upgraded War Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://120373540270181",
+        "Rarity": "Uncommon",
+        "PlacePrice": 800,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 180,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1500,
+                "Range": 12,
+                "Damage": 205,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1750,
+                "Range": 14,
+                "Damage": 220,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2250,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 0.4
             }
         ]
     },
@@ -9014,6 +9092,45 @@
                 "Cooldown": 1.5,
                 "Slow": 0.35,
                 "SlowTime": 1
+            }
+        ]
+    },
+	    "Sawed Up Freddy": {
+        "Type": "AOE + Slow",
+        "Image": "rbxassetid://86213031666835",
+        "Rarity": "Nightmare",
+        "PlacePrice": 30000,
+        "Offset": 0.65,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 12000,
+				"Cooldown": 1.8
+            },
+            {
+                "Price": 40000,
+                "Range": 28,
+                "Damage": 15000,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 45000,
+                "Range": 31,
+                "Damage": 18000,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 21000,
+                "Cooldown": 1.5
             }
         ]
     },
