@@ -1239,8 +1239,8 @@
         "Type": "Nuke",
         "Image": "rbxassetid://18255264349",
         "Rarity": "Nightmare",
-        "PlacePrice": 3000,
-        "Max": 2,
+        "PlacePrice": 8000,
+        "Max": 3,
         "Passive": {"Name": "Sludge", "Description": "Attacks slow enemies by 55% for 1 second"},
         "hitboxOffset": {
             "X": 0,
@@ -1250,31 +1250,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 18,
                 "Damage": 550,
                 "Cooldown": 1,
                 "Slow": 0.45,
                 "SlowTime": 1
             },
             {
-                "Price": 5000,
-                "Range": 18,
+                "Price": 15000,
+                "Range": 20,
                 "Damage": 650,
                 "Cooldown": 1,
                 "Slow": 0.45,
                 "SlowTime": 1
             },
             {
-                "Price": 7000,
-                "Range": 20,
+                "Price": 27000,
+                "Range": 25,
                 "Damage": 750,
                 "Cooldown": 1,
                 "Slow": 0.45,
                 "SlowTime": 1
             },
             {
-                "Price": 10000,
-                "Range": 25,
+                "Price": 30000,
+                "Range": 35,
                 "Damage": 800,
                 "Cooldown": 0.8,
                 "Slow": 0.45,
