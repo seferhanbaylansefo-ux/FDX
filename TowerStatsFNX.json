@@ -754,25 +754,25 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 30,
-                "Cooldown": 0.3
+                "Cooldown": 0.25
             },
             {
                 "Price": 1200,
                 "Range": 18,
-                "Damage": 35,
-                "Cooldown": 0.3
+                "Damage": 40,
+                "Cooldown": 0.2
             },
             {
                 "Price": 1600,
                 "Range": 22,
-                "Damage": 45,
-                "Cooldown": 0.3
+                "Damage": 55,
+                "Cooldown": 0.2
             },
             {
                 "Price": 2200,
                 "Range": 25,
-                "Damage": 60,
-                "Cooldown": 0.3
+                "Damage": 70,
+                "Cooldown": 0.2
             }
         ]
     },
@@ -818,7 +818,7 @@
     "Rockin Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
-        "Rarity": "Mythic",
+        "Rarity": "Secret",
         "PlacePrice": 400,
         "Max": 6,
         "hitboxOffset": {
@@ -830,25 +830,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 15,
+                "Damage": 25,
                 "Cooldown": 0.5
             },
             {
                 "Price": 300,
                 "Range": 18,
-                "Damage": 17.5,
+                "Damage": 27.5,
                 "Cooldown": 0.5
             },
             {
                 "Price": 500,
                 "Range": 20,
-                "Damage": 20,
+                "Damage": 30,
                 "Cooldown": 0.5
             },
             {
                 "Price": 700,
                 "Range": 20,
-                "Damage": 25,
+                "Damage": 35,
                 "Cooldown": 0.5
             }
         ]
@@ -1030,6 +1030,45 @@
                 "Range": 30,
                 "Damage": 100,
                 "Cooldown": 0.05
+            }
+        ]
+    },
+       "Patriot Freddy": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://18326604996",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 400,
+                "Cooldown": 4
+            },
+            {
+                "Price": 500,
+                "Range": 18,
+                "Damage": 450,
+                "Cooldown": 3.8
+            },
+            {
+                "Price": 800,
+                "Range": 20,
+                "Damage": 550,
+                "Cooldown": 3.7
+            },
+            {
+                "Price": 1200,
+                "Range": 22,
+                "Damage": 700,
+                "Cooldown": 3.5
             }
         ]
     },
