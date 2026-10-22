@@ -1403,6 +1403,51 @@
             }
         ]
     },
+     "Wet Floor Bot": {
+        "Type": "AOE + Cooldown Boost",
+        "Image": "rbxassetid://127516376865863",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Offset": -1.75,
+        "Max": 2,
+        "Passive": {"Name": "Cooldown Boost", "Description": "All units in range attack 15% faster"},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85
+            },
+            {
+                "Price": 500,
+                "Range": 24,
+                "Damage": 400,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85
+            },
+            {
+                "Price": 600,
+                "Range": 26,
+                "Damage": 500,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85
+            },
+            {
+                "Price": 700,
+                "Range": 28,
+                "Damage": 650,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85
+            }
+        ]
+    },
  "Marionette's Puppeteer": {
         "Type": "AOE",
         "Image": "rbxassetid://18151575297",
