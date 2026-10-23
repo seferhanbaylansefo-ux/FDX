@@ -1238,9 +1238,9 @@
     "Algae FredBear": {
         "Type": "Nuke",
         "Image": "rbxassetid://18255264349",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 8000,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Sludge", "Description": "Attacks slow enemies by 55% for 1 second"},
         "hitboxOffset": {
             "X": 0,
