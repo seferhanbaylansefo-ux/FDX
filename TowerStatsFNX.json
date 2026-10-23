@@ -323,26 +323,26 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 30,
-                "Cooldown": 0.05
+                "Damage": 20,
+                "Cooldown": 0.04
             },
             {
                 "Price": 25000,
                 "Range": 15,
                 "Damage": 35,
-                "Cooldown": 0.05
+                "Cooldown": 0.03
             },
             {
                 "Price": 35000,
                 "Range": 20,
                 "Damage": 50,
-                "Cooldown": 0.05
+                "Cooldown": 0.025
             },
             {
                 "Price": 40000,
                 "Range": 20,
                 "Damage": 65,
-                "Cooldown": 0.05
+                "Cooldown": 0.02
             }
         ]
     },
@@ -2014,7 +2014,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 3000,
         "Offset": 0.35,
-        "Max": 1,
+        "Max": 2,
         "Passive": {"Name": "Bleed", "Description": "Targetted enemies suffer from 100% Anti Regen for 1 second."},
         "hitboxOffset": {
             "X": 0,
