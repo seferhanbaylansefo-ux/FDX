@@ -1403,48 +1403,48 @@
             }
         ]
     },
-     "Wet Floor Bot": {
-        "Type": "AOE + Cooldown Boost",
-        "Image": "rbxassetid://127516376865863",
+      "Abyssal Foxy": {
+        "Type": "Continuous Slow",
+        "Image": "rbxassetid://18578478327",
         "Rarity": "Secret",
-        "PlacePrice": 400,
-        "Offset": -1.75,
+        "PlacePrice": 7700,
         "Max": 2,
-        "Passive": {"Name": "Cooldown Boost", "Description": "All units in range attack 15% faster"},
-        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
+        "Offset": 0.1,
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 300,
-                "Cooldown": 1,
-                "CooldownBoost": 0.85
+                "Range" : 10,
+                "Damage": 60,
+                "Cooldown": 0.1
             },
             {
-                "Price": 500,
-                "Range": 24,
-                "Damage": 400,
-                "Cooldown": 1,
-                "CooldownBoost": 0.85
+                "Price": 15000,
+                "Range": 15,
+                "Damage": 70,
+                "Cooldown": 0.1
             },
             {
-                "Price": 600,
-                "Range": 26,
-                "Damage": 500,
-                "Cooldown": 1,
-                "CooldownBoost": 0.85
+                "Price": 17500,
+                "Range": 18,
+                "Damage": 80,
+                "Cooldown": 0.09
             },
             {
-                "Price": 700,
-                "Range": 28,
-                "Damage": 650,
-                "Cooldown": 1,
-                "CooldownBoost": 0.85
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 90,
+                "Cooldown": 0.08
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 0.07
             }
         ]
     },
@@ -1464,25 +1464,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 800,
+                "Damage": 2800,
                 "Cooldown": 2
             },
             {
                 "Price": 12000,
                 "Range": 17,
-                "Damage": 1050,
+                "Damage": 3050,
                 "Cooldown": 2
             },
             {
                 "Price": 15000,
                 "Range": 19,
-                "Damage": 1500,
+                "Damage": 3500,
                 "Cooldown": 2
             },
             {
                 "Price": 20000,
                 "Range": 21,
-                "Damage": 1800,
+                "Damage": 3800,
                 "Cooldown": 1.5
             }
         ]
