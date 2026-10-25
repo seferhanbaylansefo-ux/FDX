@@ -777,7 +777,7 @@
         ]
     },
     "Plane Boy": {
-        "Type": "Continuous",
+        "Type": "Continuous + Anti Jackn3513",
         "Image": "rbxassetid://17689713814",
         "Rarity": "Secret",
         "PlacePrice": 20000,
@@ -792,25 +792,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 45,
+                "Damage": 50,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 30,
-                "Damage": 55,
+                "Damage": 65,
                 "Cooldown": 0.05
             },
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 70,
+                "Damage": 80,
                 "Cooldown": 0.05
             },
             {
                 "Price": 50000,
                 "Range": 40,
-                "Damage": 65,
+                "Damage": 100,
                 "Cooldown": 0.05
             }
         ]
