@@ -38,6 +38,46 @@
             }
         ]
     },
+    {
+    "Kekerry": {
+        "Type": "Single",
+        "Image": "rbxassetid://94684241702930",
+        "Rarity": "Secret",
+        "PlacePrice": 200,
+        "Max": 67,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 20,
+                "Cooldown": 0.0001
+            },
+            {
+                "Price": 300,
+                "Range": 12,
+                "Damage": 25,
+                "Cooldown": 0.0001
+            },
+            {
+                "Price": 450,
+                "Range": 14,
+                "Damage": 30,
+                "Cooldown": 0.0001
+            },
+            {
+                "Price": 550,
+                "Range": 15,
+                "Damage": 30,
+                "Cooldown": 0.0001
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
