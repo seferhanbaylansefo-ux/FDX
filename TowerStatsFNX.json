@@ -1124,7 +1124,7 @@
         "Image": "rbxassetid://121812873213035",
         "Rarity": "Mythic",
         "PlacePrice": 1000,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1135,26 +1135,26 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 1.5
+                "Damage": 500,
+                "Cooldown": 2.5
             },
             {
                 "Price": 2000,
                 "Range": 22,
-                "Damage": 1050,
-                "Cooldown": 1.5
+                "Damage": 650,
+                "Cooldown": 2.25
             },
             {
                 "Price": 3500,
                 "Range": 24,
-                "Damage": 1100,
-                "Cooldown": 1.5
+                "Damage": 700,
+                "Cooldown": 2
             },
             {
                 "Price": 5000,
                 "Range": 25,
-                "Damage": 1200,
-                "Cooldown": 1.5
+                "Damage": 800,
+                "Cooldown": 1.75
             }
         ]
     },
