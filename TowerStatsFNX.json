@@ -828,6 +828,51 @@
             }
         ]
     },
+     "Pirate Withered Foxy": {
+    "Type": "Single",
+    "Image": "rbxassetid://17851205149",
+    "Rarity": "Secret",
+    "PlacePrice": 400,
+    "Offset": 0.55,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 50,
+        "Cooldown": 0.85
+      },
+      {
+        "Price": 800,
+        "Range": 18,
+        "Damage": 75,
+        "Cooldown": 0.8
+      },
+      {
+        "Price": 1400,
+        "Range": 20,
+        "Damage": 90,
+        "Cooldown": 0.75
+      },
+      {
+        "Price": 2000,
+        "Range": 22,
+        "Damage": 95,
+        "Cooldown": 0.7
+      },
+      {
+        "Price": 2500,
+        "Range": 25,
+        "Damage": 100,
+        "Cooldown": 0.6
+      }
+    ]
+  },
     "Rockin Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
