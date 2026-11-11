@@ -196,7 +196,7 @@
     "Fan": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://70879844361967",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 250,
         "Offset": -1,
         "Max": 2,
