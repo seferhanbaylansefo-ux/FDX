@@ -2531,7 +2531,7 @@
       "Abyssal Foxy": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 45000,
         "Max": 1,
         "Passive": {"Name": "Slow", "Description": "Main Attack slows enemies by 60%. During charge state enemies are slowed by 70%"},
@@ -2545,7 +2545,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 6000,
+                "Damage": 200,
                 "Cooldown": 0.25,
                 "ChargeLength": 2.5,
                 "RechargeLength": 2,
@@ -2555,40 +2555,32 @@
             {
                 "Price": 50000,
                 "Range": 25,
-                "Damage": 7000,
+                "Damage": 300,
                 "Cooldown": 0.25,
-                "ChargeLength": 2.5,
-                "RechargeLength": 2,
                 "Slow": 0.4,
                 "SlowTime": 1
             },
             {
                 "Price": 55000,
                 "Range": 28,
-                "Damage": 8000,
+                "Damage": 400,
                 "Cooldown": 0.25,
-                "ChargeLength": 2.5,
-                "RechargeLength": 2,
                 "Slow": 0.4,
                 "SlowTime": 1
             },
             {
                 "Price": 60000,
                 "Range": 30,
-                "Damage": 9000,
+                "Damage": 500,
                 "Cooldown": 0.25,
-                "ChargeLength": 2.5,
-                "RechargeLength": 2,
                 "Slow": 0.4,
                 "SlowTime": 1
             },
             {
                 "Price": 70000,
                 "Range": 35,
-                "Damage": 10000,
+                "Damage": 600,
                 "Cooldown": 0.25,
-                "ChargeLength": 2.5,
-                "RechargeLength": 2,
                 "Slow": 0.4,
                 "SlowTime": 1
             }
