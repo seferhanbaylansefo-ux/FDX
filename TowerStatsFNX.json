@@ -38,6 +38,45 @@
             }
         ]
     },
+    "Negate Rainbow Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://92046527976014",
+        "Rarity": "Secret",
+        "PlacePrice": 200,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 0.33
+            },
+            {
+                "Price": 400,
+                "Range": 12,
+                "Damage": 65,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 450,
+                "Range": 14,
+                "Damage": 80,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 550,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 0.2
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
