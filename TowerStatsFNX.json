@@ -1293,6 +1293,98 @@
             }
         ]
     },
+       "Liberty Chica": {
+        "Type": "Range Booster",
+        "Image": "rbxassetid://114586412774377",
+        "Rarity": "Mythic",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 650,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.25
+            },
+            {
+                "Price": 800,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.35
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.4
+            }
+        ]
+    },
+    "Ringmaster Foxy": {
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://132624234904948",
+        "Rarity": "Nightmare",
+        "PlacePrice": 11000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Barrage", "Description": "Attacks apply 60% Slow."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1.75,
+                "Slow": 0.4,
+                "SlowTime": 3
+            },
+            {
+                "Price": 13000,
+                "Range": 24,
+                "Damage": 1800,
+                "Cooldown": 1.75,
+                "Slow": 0.4,
+                "SlowTime": 3
+            },
+            {
+                "Price": 15000,
+                "Range": 27,
+                "Damage": 2200,
+                "Cooldown": 1.75,
+                "Slow": 0.4,
+                "SlowTime": 3
+            },
+            {
+                "Price": 18000,
+                "Range": 30,
+                "Damage": 2750,
+                "Cooldown": 1.75,
+                "Slow": 0.4,
+                "SlowTime": 3
+            }
+        ]
+    },
     "Pirate Withered Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
