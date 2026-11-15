@@ -999,7 +999,7 @@
         "Type": "Explosion",
         "Image": "rbxassetid://18161347460",
         "Rarity": "Epic",
-        "PlacePrice": 800,
+        "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -1011,25 +1011,25 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 30,
-                "Cooldown": 1
+                "Cooldown": 0.5
             },
             {
                 "Price": 1400,
                 "Range": 18,
                 "Damage": 45,
-                "Cooldown": 1
+                "Cooldown": 0.4
             },
             {
                 "Price": 2000,
                 "Range": 22,
                 "Damage": 60,
-                "Cooldown": 1
+                "Cooldown": 0.3
             },
             {
                 "Price": 2500,
                 "Range": 25,
                 "Damage": 75,
-                "Cooldown": 0.8
+                "Cooldown": 0.25
             }
         ]
     },
