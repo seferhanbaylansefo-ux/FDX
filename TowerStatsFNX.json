@@ -38,6 +38,45 @@
             }
         ]
     },
+        "Algae Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://81086278551061",
+        "Rarity": "Uncommon",
+        "PlacePrice": 300,
+        "Max": 6,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 20,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 400,
+                "Range": 12,
+                "Damage": 25,
+                "Cooldown": 0.45
+            },
+            {
+                "Price": 550,
+                "Range": 14,
+                "Damage": 30,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 750,
+                "Range": 15,
+                "Damage": 33,
+                "Cooldown": 0.33
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
