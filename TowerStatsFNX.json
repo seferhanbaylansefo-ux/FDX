@@ -1604,6 +1604,95 @@
             }
         ]
     },
+        "ITS ME": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://120282726125561",
+        "Rarity": "Secret",
+        "PlacePrice": 7500,
+        "Offset": -1.4,
+        "Max": 1,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 40%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 20,
+                "Cooldown": 0.25,
+                "Slow": 0.6,
+                "SlowTime": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 40,
+                "Cooldown": 0.2,
+                "Slow": 0.6,
+                "SlowTime": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 80,
+                "Cooldown": 0.15,
+                "Slow": 0.6,
+                "SlowTime": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 27,
+                "Damage": 105,
+                "Cooldown": 0.1,
+                "Slow": 0.6,
+                "SlowTime": 1
+            }
+        ]
+    },
+
+"Old Man Consequences": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://95479691284429",
+        "Rarity": "Apex",
+        "PlacePrice": 11340,
+        "Offset": 0.5,
+        "Max": 1,
+        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every 5 seconds, erasing them completely. Deals x20 damage to bosses and true stuns them for 1.65 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 3250,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 22222,
+                "Range": 28,
+                "Damage": 3750,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 33333,
+                "Range": 32,
+                "Damage": 4250,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 44444,
+                "Range": 35,
+                "Damage": 5250,
+                "Cooldown": 0.25
+            }
+        ]
+    },
     "Goliath Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
