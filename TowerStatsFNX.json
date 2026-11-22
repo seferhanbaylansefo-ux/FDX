@@ -1694,6 +1694,54 @@
             }
         ]
     },
+           "Astral Bonnie": {
+            "Type": "Continuous Splash",
+            "Image": "rbxassetid://128604882971057",
+            "Rarity": "Apex",
+            "PlacePrice": 20000,
+            "Offset": 0.5,
+            "Max": 2,
+            "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
+            "hitboxOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Upgrades": [
+                {
+                    "Price": 0,
+                    "Range": 30,
+                    "Damage": 1000,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 25000,
+                    "Range": 32,
+                    "Damage": 1200,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 30000,
+                    "Range": 34,
+                    "Damage": 1400,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 40000,
+                    "Range": 40,
+                    "Damage": 1600,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                }
+            ]
+        },
     "Hydra Mangle": {
         "Type": "Charge AOE Burn",
         "Image": "rbxassetid://78092879730354",
