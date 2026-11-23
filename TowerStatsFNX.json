@@ -1831,6 +1831,57 @@
                 }
             ]
         },
+        "The Crying Child": {
+        "Type": "Slow ",
+        "Image": "rbxassetid://18937271323",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 5,
+                "Cooldown": 0.05,
+                "Slow": 0.8
+            },
+            {
+                "Price": 700,
+                "Range": 25,
+                "Damage": 10,
+                "Cooldown": 0.05,
+                "Slow": 0.75
+            },
+            {
+                "Price": 1000,
+                "Range": 27,
+                "Damage": 15,
+                "Cooldown": 0.05,
+                "Slow": 0.7
+            },
+            {
+                "Price": 1200,
+                "Range": 30,
+                "Damage": 25,
+                "Cooldown": 0.05,
+                "Slow": 0.675
+            },
+            {
+                "Price": 1400,
+                "Range": 32,
+                "Damage": 37.5,
+                "Cooldown": 0.05,
+                "Slow": 0.65
+            }
+        ]
+    },
     "Hydra Mangle": {
         "Type": "Charge AOE Burn",
         "Image": "rbxassetid://78092879730354",
