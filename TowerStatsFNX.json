@@ -1608,7 +1608,7 @@
         "Type": "Cone AOE",
         "Image": "rbxassetid://120282726125561",
         "Rarity": "Secret",
-        "PlacePrice": 7500,
+        "PlacePrice": 2500,
         "Offset": -1.4,
         "Max": 1,
         "Passive": {"Name": "Slow", "Description": "Slows enemies by 40%"},
@@ -1622,28 +1622,28 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 20,
-                "Cooldown": 0.25,
-                "Slow": 0.6,
-                "SlowTime": 1
-            },
-            {
-                "Price": 15000,
-                "Range": 22,
-                "Damage": 40,
-                "Cooldown": 0.2,
-                "Slow": 0.6,
-                "SlowTime": 1
-            },
-            {
-                "Price": 20000,
-                "Range": 24,
-                "Damage": 80,
                 "Cooldown": 0.15,
                 "Slow": 0.6,
                 "SlowTime": 1
             },
             {
-                "Price": 25000,
+                "Price": 4000,
+                "Range": 22,
+                "Damage": 40,
+                "Cooldown": 0.1,
+                "Slow": 0.6,
+                "SlowTime": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 24,
+                "Damage": 80,
+                "Cooldown": 0.1,
+                "Slow": 0.6,
+                "SlowTime": 1
+            },
+            {
+                "Price": 6000,
                 "Range": 27,
                 "Damage": 105,
                 "Cooldown": 0.1,
