@@ -193,6 +193,45 @@
             }
         ]
     },
+     "Party Toy Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://16781095520",
+        "Rarity": "Secret",
+        "PlacePrice": 1800,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 310,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1000,
+                "Range": 12,
+                "Damage": 400,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 455,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2000,
+                "Range": 18,
+                "Damage": 500,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "Toy Bonnie": {
         "Type": "Dual",
         "Image": "rbxassetid://16780983603",
