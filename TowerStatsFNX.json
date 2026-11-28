@@ -1921,6 +1921,778 @@
             }
         ]
     },
+      "Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://18864498819",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Offset": 1.25,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1000,
+                "Cooldown": 2.5
+            },
+
+            {
+                "Price": 10000,
+                "Range": 28,
+                "Damage": 3600,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 15000,
+                "Range": 31,
+                "Damage": 4200,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 20000,
+                "Range": 34,
+                "Damage": 4800,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 25000,
+                "Range": 37,
+                "Damage": 5400,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 30000,
+                "Range": 45,
+                "Damage": 6000,
+                "Cooldown": 2
+            }
+        ]
+    },
+     "Master Puppeteer": {
+        "Type": "Continuous Pierce",
+        "Image": "rbxassetid://139994062140962",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Lethal Rebound", "Description": "Attacks hit enemies 10 times"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 15600,
+                "Cooldown": 4
+            },
+           {
+                "Price": 15000,
+                "Range": 27,
+                "Damage": 16400,
+                "Cooldown": 3.5
+            },
+           {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 17000,
+                "Cooldown": 3
+            },
+           {
+                "Price": 25000,
+                "Range": 33,
+                "Damage": 17600,
+                "Cooldown": 2.5
+            }
+        ]
+    },
+"Tuned Mangle": {
+        "Type": "Splash",
+        "Image": "rbxassetid://139180573868562",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1300,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 23,
+                "Damage": 1600,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 25000,
+                "Range": 26,
+                "Damage": 1900,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 2250,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+    "Wraith Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://115627084338568",
+        "Rarity": "Secret",
+        "PlacePrice": 53000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.25
+            },
+           {
+                "Price": 58000,
+                "Range": 22,
+                "Damage": 900,
+                "Cooldown": 0.25
+            },
+           {
+                "Price": 63000,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 0.25
+            },
+           {
+                "Price": 66000,
+                "Range": 28,
+                "Damage": 1375,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "Spectral Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://130677986382080",
+        "Rarity": "Secret",
+        "PlacePrice": 30000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 35000,
+                "Range": 23,
+                "Damage": 3500,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 40000,
+                "Range": 26,
+                "Damage": 4000,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 5000,
+                "Cooldown": 2
+            }
+        ]
+    },
+   "Limitless Shadow": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://134973909366355",
+        "Rarity": "Nightmare",
+        "PlacePrice": 58000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Unnerving Presence", "Description": "Deals +100% more damage if enemies are within 12 range of this unit."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 8000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 64000,
+                "Range": 17,
+                "Damage": 10000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 76000,
+                "Range": 18,
+                "Damage": 11000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 88000,
+                "Range": 20,
+                "Damage": 13000,
+                "Cooldown": 2
+            }
+        ]
+    },
+       "Cowboy Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://75145495587772",
+        "Rarity": "Rare",
+        "PlacePrice": 700,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 21,
+                "Damage": 125,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Tavern Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://75064673887993",
+        "Rarity": "Mythic",
+        "PlacePrice": 1200,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 80,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1500,
+                "Range": 20,
+                "Damage": 115,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 130,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2500,
+                "Range": 20,
+                "Damage": 150,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+    "Maestro Puppet": {
+        "Type": "Support",
+        "Image": "rbxassetid://124446963849830",
+        "Rarity": "Epic",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 800,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 1200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.24
+            }
+        ]
+    },
+    "Slick Bonnie": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://123472154860279",
+        "Rarity": "Secret",
+        "PlacePrice": 2000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Buckshot", "Description": "Every 4 attacks Slick Bonnie uses both barrels of his shotgun, dealing double damage"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 900,
+                "Cooldown": 2
+            },
+            {
+                "Price": 3000,
+                "Range": 12,
+                "Damage": 1100,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4000,
+                "Range": 15,
+                "Damage": 1300,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 5000,
+                "Range": 15,
+                "Damage": 1500,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Bounty Mangle": {
+        "Type": "Splash Farm",
+        "Image": "rbxassetid://86267470826666",
+        "Rarity": "Nightmare",
+        "PlacePrice": 4000,
+        "Offset": 0,
+        "Max": 2,
+        "NoEnemyAttack": true,
+        "Passive": {"Name": "Bounty Hunter", "Description": "Generates lots of extra cash after every shot and boosts money gain to units in range by +100%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+       "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 500,
+                "Cooldown": 0.25,
+                "MoneyBoost": 2
+            },
+            {
+                "Price": 6000,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.25,
+                "MoneyBoost": 2
+            },
+            {
+                "Price": 8000,
+                "Range": 22,
+                "Damage": 1000,
+                "Cooldown": 0.25,
+                "MoneyBoost": 2
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 1250,
+                "Cooldown": 0.25,
+                "MoneyBoost": 2
+            }
+        ]
+    },
+    "Hooligan Toy Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://99820154884996",
+        "Rarity": "Epic",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+           {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 1
+            },
+           {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 1
+            },
+           {
+                "Price": 4000,
+                "Range": 20,
+                "Damage": 300,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "BlindEye Foxy": {
+        "Type": "Single Slow",
+        "Image": "rbxassetid://122884069811995",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Slow", "Description": "Enemies hit are slowed by 90% momentarily"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 600,
+                "Cooldown": 1,
+                "Slow": 0.1
+            },
+            {
+                "Price": 6000,
+                "Range": 21,
+                "Damage": 800,
+                "Cooldown": 1,
+                "Slow": 0.1
+            },
+            {
+                "Price": 7000,
+                "Range": 22,
+                "Damage": 900,
+                "Cooldown": 1,
+                "Slow": 0.1
+            },
+            {
+                "Price": 8000,
+                "Range": 25,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.1
+            }
+        ]
+    },
+       "Animdude": {
+        "Type": "Nuke + Passive",
+        "Image": "rbxassetid://77112261441145",
+        "Rarity": "Secret",
+        "PlacePrice": 4000,
+        "Offset": 1.25,
+        "Max": 1,
+        "Passive": {"Name": "Recursive Volley", "Description": "Attacks strike twice and stun enemies for 0.5 seconds"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 5000,
+                "Cooldown": 2.4,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 6500,
+                "Cooldown": 2.3,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 30000,
+                "Range": 34,
+                "Damage": 8000,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 40000,
+                "Range": 37,
+                "Damage": 12000,
+                "Cooldown": 2.1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 80000,
+                "Range": 40,
+                "Damage": 15000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "Gunslinger Endo": {
+        "Type": "Single",
+        "Image": "rbxassetid://128673605608035",
+        "Rarity": "Secret",
+        "PlacePrice": 12000,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 14000,
+                "Range": 18,
+                "Damage": 1400,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 16000,
+                "Range": 22,
+                "Damage": 1600,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 1800,
+                "Cooldown": 0.7
+            }
+        ]
+    },
+    "Outlaw Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://136678045195601",
+        "Rarity": "Nightmare",
+        "PlacePrice": 17000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 800,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 10000,
+                "Range": 24,
+                "Damage": 900,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 12500,
+                "Range": 27,
+                "Damage": 1000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 1200,
+                "Cooldown": 0.4
+            }
+        ]
+    },
+
+    "Jackpot Freddy": {
+        "Type": "Splash Farm",
+        "Image": "rbxassetid://108467505723572",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "Passive": {"Name": "Gold Rush", "Description": "This unit generates +50% more income per shot. All other units in range gain +25% more income."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 360,
+                "Cooldown": 15,
+                "MoneyBoost": 1.25
+            },
+            {
+                "Price": 600,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1.25,
+                "MoneyBoost": 1.25
+            },
+            {
+                "Price": 750,
+                "Range": 22,
+                "Damage": 450,
+                "Cooldown": 1.2,
+                "MoneyBoost": 1.25
+            },
+            {
+                "Price": 1250,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 1,
+                "MoneyBoost": 1.25
+            }
+        ]
+    },
+    "Deadeye Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://139393570539370",
+        "Rarity": "Nightmare",
+        "PlacePrice": 62000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Lethal Precision", "Description": "Deal +125% damage to stunned enemies."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+         "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 28,
+            "Damage": 4000,
+            "StunDamage": 2.25,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 68000,
+            "Range": 31,
+            "Damage": 4500,
+            "StunDamage": 2.25,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 72000,
+            "Range": 34,
+            "Damage": 5200,
+            "StunDamage": 2.25,
+            "Cooldown": 0.5
+
+        },
+        {
+            "Price": 75000,
+            "Range": 38,
+            "Damage": 6000,
+            "StunDamage": 2.25,
+            "Cooldown": 0.5
+        }
+        ]
+    },
     "Hydra Mangle": {
         "Type": "Charge AOE Burn",
         "Image": "rbxassetid://78092879730354",
